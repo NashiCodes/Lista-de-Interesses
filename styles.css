@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Ubuntu Condensed", sans-serif;
+  font-size: medium;
+  margin: auto;
+}
+.texto-avulso {
+  width: fit-content;
+  margin: auto;
+  font-size: larger;
+}
+.definicao {
+  display: block;
+  height: fit-content;
+  width: 40%;
+  margin: auto;
+}
+.titulos {
+  color: darkslategrey;
+  width: fit-content;
+  margin: auto;
+}
+.lista {
+  color: #c1cee0;
+  background-color: rgb(31, 57, 57);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  width: fit-content;
+  margin: auto;
+  border: 10px inset #286182;
+}
+.details {
+  color: black;
+}
+.details p{
+  margin-top: auto;
+}
+.table {
+  color: #c1cee0;
+  background-color: rgb(31, 57, 57);
+  width: auto;
+  margin: auto;
+  border: 10px inset #286182;
+}
+
+.main-aside h2 {
+  padding-top: 50px;
+  width: fit-content;
+  margin: auto;
+}
+.main-aside ul {
+  width: fit-content;
+  margin: auto;
+  list-style: disc;
+  padding: 0;
+  padding-bottom: 20px;
+}
